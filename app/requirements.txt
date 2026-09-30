@@ -1,0 +1,4 @@
+elasticsearch==8.12.1
+SQLAlchemy==2.0.29
+aiogram==3.6.0
+elasticsearch
