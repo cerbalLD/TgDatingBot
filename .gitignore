@@ -1,45 +1,8 @@
-# Local project instructions and agent state
+/.*
 AGENTS.md
-.agents/
-.codex/
-.merge_tmp/
-
-# Secrets and local configuration
-config.json
-.env
-.env.*
-!.env.example
-secrets/
-*.key
-*.pem
-*.p12
-*.pfx
-
-# Runtime data (may contain personal data)
-*.db
-*.sqlite
-*.sqlite3
-downloads/
-
-# Logs
-log/
-logs/
-*.log
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.venv/
 venv/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-htmlcov/
-
-# IDE and OS files
-.idea/
-.vscode/
-.DS_Store
-Thumbs.db
+log/
+config.json
+*.pyc
+downloads/
+*.sqlite
